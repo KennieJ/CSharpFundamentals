@@ -272,7 +272,7 @@ namespace _06_RepositoryPattern_Console
             }
         }
 
-        //See method
+        //Seed method
         private void SeedContentList()
         {
             StreamingContent sharknado = new StreamingContent("Sharknado", "Tornadoes, but make it sharks", "TV-14", 3.3, true, GenreType.Action);
